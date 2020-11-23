@@ -1,0 +1,6 @@
+C:\Users\Алексей\Desktop\C-шапка. Интенсив\Дз\Дз №1\Homework1.1\homework1.1.2\homework1.1.2\bin\Debug\homework1.1.2.exe.config
+C:\Users\Алексей\Desktop\C-шапка. Интенсив\Дз\Дз №1\Homework1.1\homework1.1.2\homework1.1.2\bin\Debug\homework1.1.2.exe
+C:\Users\Алексей\Desktop\C-шапка. Интенсив\Дз\Дз №1\Homework1.1\homework1.1.2\homework1.1.2\bin\Debug\homework1.1.2.pdb
+C:\Users\Алексей\Desktop\C-шапка. Интенсив\Дз\Дз №1\Homework1.1\homework1.1.2\homework1.1.2\obj\Debug\homework1.1.2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\C-шапка. Интенсив\Дз\Дз №1\Homework1.1\homework1.1.2\homework1.1.2\obj\Debug\homework1.1.2.exe
+C:\Users\Алексей\Desktop\C-шапка. Интенсив\Дз\Дз №1\Homework1.1\homework1.1.2\homework1.1.2\obj\Debug\homework1.1.2.pdb
